@@ -1,0 +1,10 @@
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\bin\Debug\aKurzweil_Maker.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\bin\Debug\aKurzweil_Maker.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\obj\Debug\aKurzweil_Maker.csprojResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\obj\Debug\aKurzweil_Maker.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\obj\Debug\aKurzweil_Maker.pdb
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\bin\Debug\aKurzweil_Maker.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\bin\Debug\aKurzweil_Maker.pdb
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\obj\Debug\aKurzweil_Maker.csprojResolveAssemblyReference.cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\obj\Debug\aKurzweil_Maker.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aKurzweil_Maker\aKurzweil_Maker\obj\Debug\aKurzweil_Maker.pdb
